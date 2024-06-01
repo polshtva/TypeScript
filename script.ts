@@ -347,6 +347,6 @@ interface User1 {
     (adult) => adult.age >= 18
   );
   
-  // Вывод результатов для проверки
+  // Вывод результатов
   console.log(adults);
   
